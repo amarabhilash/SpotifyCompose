@@ -1,7 +1,7 @@
 ![](art/header.png)
 
 # Spotify Compose (:construction:work in progres :construction:)
- Spotify UI built with Jetpack Compose. Warning navigation extension functions used in this project is deprecated. More powerfull and valid way descripted in navigationBooster project: (https://github.com/droidbaza/NavigationBooster) 
+ Spotify UI built with Jetpack Compose. Warning navigation extension functions used in this project is deprecated. More powerfull and valid way descripted in navigationBooster project: (https://github.com/amarabhilash/NavigationBooster) 
 
 # Try now
 
